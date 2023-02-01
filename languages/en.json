@@ -1,0 +1,7 @@
+{
+  "plugin-data":
+  {
+    "name": "Dont List Category",
+    "description": "Choose which categories will be listed on home"
+  }
+}
